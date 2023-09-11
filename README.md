@@ -1,6 +1,6 @@
 # BFNOW_Demo1
 
-# Project Name
+# Landing Page
 
 Using the provided Wireframe as a blueprint, we've created a React App that encompasses the following features:
 
